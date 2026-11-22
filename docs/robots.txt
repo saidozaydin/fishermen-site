@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saidozaydin.github.io/fishermen-site/sitemap.xml
